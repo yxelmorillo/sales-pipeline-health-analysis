@@ -117,11 +117,11 @@ Los resultados muestran:
 
 | Etapa antes de Lost | Valor potencial perdido | % del total |
 |---|---:|---:|
-| Discovery | **$57.21M** | **27.25%** |
-| Proposal | $46.98M | 22.38% |
-| Qualified | $45.78M | 21.80% |
-| Negotiation | $33.19M | 15.81% |
-| Prospecting | $26.80M | 12.76% |
+| Discovery | **$572.12M** | **27.25%** |
+| Proposal | $469.82M | 22.38% |
+| Qualified | $457.77M | 21.80% |
+| Negotiation | $331.92M | 15.81% |
+| Prospecting | $267.99M | 12.76% |
 
 ### Hallazgo
 
