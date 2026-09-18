@@ -2,6 +2,8 @@
 
 ### Cómo identificar dónde se pierden oportunidades, cuánto valor está en riesgo y qué partes del proceso comercial requieren intervención.
 
+[English Version](README.en.md)
+
 ---
 
 ## El problema
