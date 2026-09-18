@@ -73,7 +73,7 @@ I compared Loss Rate by sales representative and stage, and then evaluated wheth
 
 # 1. Pipeline Health
 
-![Pipeline Health Dashboard](images/01_pipeline_health.png)
+![Pipeline Health Dashboard](images/01_pipeline_health_en.png)
 
 The early stages of the pipeline move at a relatively consistent pace:
 
@@ -115,7 +115,7 @@ We also need to understand:
 
 > **Where do those losses create the greatest economic impact?**
 
-![Revenue at Risk Dashboard](images/02_revenue_at_risk.png)
+![Revenue at Risk Dashboard](images/02_revenue_at_risk_en.png)
 
 The results show:
 
@@ -143,7 +143,7 @@ This distinction matters because it changes where the Sales Manager should prior
 
 After identifying where the main pipeline leaks occur, I analyzed whether the problem was evenly distributed across the sales team.
 
-![Sales Rep Performance Dashboard](images/03_sales_rep_performance.png)
+![Sales Rep Performance Dashboard](images/03_sales_rep_performance_en.png)
 
 To avoid unfair comparisons, performance was not evaluated only by the number of lost opportunities.
 
